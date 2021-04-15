@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/debriefer/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/debriefer/static/js/main.e029cd37.chunk.js",
+    "main.js.map": "/debriefer/static/js/main.e029cd37.chunk.js.map",
+    "runtime-main.js": "/debriefer/static/js/runtime-main.213f4c46.js",
+    "runtime-main.js.map": "/debriefer/static/js/runtime-main.213f4c46.js.map",
+    "static/css/2.7d64f28b.chunk.css": "/debriefer/static/css/2.7d64f28b.chunk.css",
+    "static/js/2.b4e07602.chunk.js": "/debriefer/static/js/2.b4e07602.chunk.js",
+    "static/js/2.b4e07602.chunk.js.map": "/debriefer/static/js/2.b4e07602.chunk.js.map",
+    "static/js/3.435a7ab1.chunk.js": "/debriefer/static/js/3.435a7ab1.chunk.js",
+    "static/js/3.435a7ab1.chunk.js.map": "/debriefer/static/js/3.435a7ab1.chunk.js.map",
+    "index.html": "/debriefer/index.html",
+    "static/css/2.7d64f28b.chunk.css.map": "/debriefer/static/css/2.7d64f28b.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/debriefer/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b4e07602.chunk.js.LICENSE.txt": "/debriefer/static/js/2.b4e07602.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/debriefer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.213f4c46.js",
+    "static/css/2.7d64f28b.chunk.css",
+    "static/js/2.b4e07602.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e029cd37.chunk.js"
+  ]
+}
