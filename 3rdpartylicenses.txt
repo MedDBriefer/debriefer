@@ -57,6 +57,8 @@ Apache-2.0
 @meddbriefer/analysis
 UNLICENSED
 
+@meddbriefer/cond1-debriefing-ui
+
 @meddbriefer/feedback-data
 UNLICENSED
 
