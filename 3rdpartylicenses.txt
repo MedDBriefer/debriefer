@@ -62,12 +62,16 @@ UNLICENSED
 @meddbriefer/feedback-data
 UNLICENSED
 
+@meddbriefer/log-chooser
+
 @meddbriefer/mdb-auth
 
 @meddbriefer/mdb-firebase
 
 @meddbriefer/scenario-data
 UNLICENSED
+
+@meddebriefer/prompt-answer-grading
 
 @nrwl/web
 MIT
